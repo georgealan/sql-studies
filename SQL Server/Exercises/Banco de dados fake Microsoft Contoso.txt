@@ -1,0 +1,4 @@
+Nos exemplos do curso e nos exercicios foi utilizado o banco de dados fake da Microsoft chamado: Contoso
+Para utilizar basta baixar no link abaixo:
+
+https://www.microsoft.com/en-us/download/details.aspx?id=18279
